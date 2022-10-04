@@ -1,4 +1,4 @@
-# Project Introduction - hand_game_rockpayersccisors.
+## Project Introduction - hand_game_rockpayersccisors.
 The purpose of this project is to create a simple game called rock paper scissors by creating objects. Be sure to revise your Python objects and classes before proceeding.
 
 ---
