@@ -73,6 +73,6 @@ while True:
     game.print_result()
     
     play_again = input('Do you want to play again? (y/n)')
-    
+    # if the user enters other charater(s) than 'y' the game will end. 
     if play_again != 'y':
         break
