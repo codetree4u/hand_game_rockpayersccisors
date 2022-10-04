@@ -67,6 +67,12 @@ class Game:
         print(f'You {self.result}')
 
 
-# create an object of the Game class
-game = Game()
-game.print_result()
+# create an object of the Game class inside a while loop.
+while True:
+    game = Game()
+    game.print_result()
+    
+    play_again = input('Do you want to play again? (y/n)')
+    
+    if play_again != 'y':
+        break
